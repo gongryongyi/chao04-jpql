@@ -9,6 +9,13 @@
         <class>com.ohgiraffers.section03.projection.BiDirectionCategory</class>
         <class>com.ohgiraffers.section03.projection.EmbeddedMenu</class>
         <class>com.ohgiraffers.section03.projection.Category</class>
+        <class>com.ohgiraffers.section04.paging.Menu</class>
+        <class>com.ohgiraffers.section05.groupfunction.Menu</class>
+        <class>com.ohgiraffers.section06.join.Category</class>
+        <class>com.ohgiraffers.section06.join.Menu</class>
+        <class>com.ohgiraffers.section07.subquery.Category</class>
+        <class>com.ohgiraffers.section07.subquery.Menu</class>
+        <class>com.ohgiraffers.section08.namedquery.Menu</class>
 
 
         <properties>
